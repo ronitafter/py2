@@ -15,10 +15,13 @@
 # age = 2022 - int(year)
 # print(age)
 
-num1 = float(input("num1: "))
-num2 = float(input("num2: "))
-sum = num1 + num2
-print(sum)
+# num1 = input("num1: ")
+# num2 = input("num2: ")
+# sum = float(num1) + float(num2)
+# num1 = float(input("num1: "))
+# num2 = float(input("num2: "))
+# sum = num1 + num2
+# print("sum: " + str(sum))
 
 
 # For the weight converter i use 1kg = 2.2046 lbs
@@ -30,3 +33,32 @@ print(sum)
 # elif unit == "l" or unit == "L":
 #     kg = weight / 2.2046
 #     print("Weight in Kg: " + str(round(kg, 2)))
+
+# string = object
+# name = "jfasasajd"
+# print(name.upper())
+# print(name.find('ajd'))
+# print(name.replace('ajd', 'DDD'))
+# print('ajd' in name)
+# print(name)
+
+# print(89/5)
+# print(89//5)
+# print(8 % 5)
+# print(20 * 5)
+# print(20 ** 5)
+
+# x = (10 + 3) * 2
+# print(x)
+# x = 3 > 50
+# print(x)
+
+
+price = 1000
+# print(price > 10 and price < 200)
+# print(price < 10 or price < 200)
+print(not price > 10)
+
+# and
+# or
+# not
